@@ -1,0 +1,6 @@
+{
+  "name": "Web OS",
+  "description": "A web-based operating system featuring a Python terminal (via Pyodide) and a Web Editor for HTML/JS/CSS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
